@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker MERN Project
 
 College-level MERN Expense Tracker with:
@@ -103,3 +104,7 @@ Set `MONGO_URI` in Render environment variables.
 - GET `/budget/:userId/:month/:year`
 - GET `/reports/:userId`
 - PUT `/profile/:userId`
+=======
+# Expense_Tracker_Application
+A Tracker Application
+>>>>>>> 6e078e4d706c6afccced47a0c3f779be19ba6685
